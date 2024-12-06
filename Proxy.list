@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,mxwljsq.xyz
 DOMAIN-SUFFIX,mojie.me
 DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-SUFFIX,mofacloud.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
