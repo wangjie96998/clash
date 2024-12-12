@@ -1,5 +1,11 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+- DOMAIN-SUFFIX,http://synology.com,DIRECT
+- DOMAIN-SUFFIX,api.insight.synology.com,DIRECT
+- DOMAIN-SUFFIX,http://dyndns.org,DIRECT
+- DOMAIN-SUFFIX,http://synocommunity.com,DIRECT
+- DOMAIN-KEYWORD,synology,DIRECT
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
