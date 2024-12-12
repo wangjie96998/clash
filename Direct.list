@@ -1,8 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # Synology 直连规则
-DOMAIN-SUFFIX,synology.com,DIRECT
-DOMAIN-SUFFIX,api.insight.synology.com,DIRECT
-DOMAIN-SUFFIX,dyndns.org,DIRECT
-DOMAIN-SUFFIX,synocommunity.com,DIRECT
-DOMAIN-KEYWORD,synology,DIRECT
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,api.insight.synology.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,synocommunity.com
+DOMAIN-KEYWORD,synology
